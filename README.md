@@ -17,3 +17,9 @@ A simple and responsive product listing interface built using **Next.js**, **Rea
 
 ---
 
+## 📥 Set-up Instructions
+
+```bash
+git clone https://github.com/your-username/product-listing-app.git
+cd product-listing-app
+npm run dev
